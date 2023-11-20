@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![img_1.png](./img_1.png)
+![./demo_gif.gif](./demo_gif.gif)
 
 
 ## Notes
